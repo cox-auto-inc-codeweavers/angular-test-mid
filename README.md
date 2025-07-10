@@ -3,7 +3,7 @@
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.0.
 
 ## Test instructions
-Please refer to the [test instruction readme file] (https://github.com/cox-auto-inc-codeweavers/angular-test-mid/blob/main/Tech%20Test%20Mid%20Frontend.md).
+Please refer to the [test instructions readme file](https://github.com/cox-auto-inc-codeweavers/angular-test-mid/blob/main/Tech%20Test%20Mid%20Frontend.md).
 
 ## Development server
 
