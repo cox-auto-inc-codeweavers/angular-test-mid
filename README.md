@@ -1,6 +1,9 @@
-# AngularTestMid
+# Angular Test Mid Level Engineer
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.0.
+
+## Test instructions
+Please refer to the [test instruction readme file]([https://github.com/angular/angular-cli](https://github.com/cox-auto-inc-codeweavers/angular-test-mid/blob/main/Tech%20Test%20Mid%20Frontend.md)) version 20.1.0.
 
 ## Development server
 
