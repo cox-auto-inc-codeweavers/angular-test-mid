@@ -2,9 +2,12 @@
 
 ### Midlevel Software Engineer, Frontend
 
-**Goal**: Implement features for a Vehicle Inventory and Finance Calculator.
+**Goal**: 
+
+Implement features for a Vehicle Inventory and Finance Calculator.
 
 **Scenario**:
+
 You are tasked with building a Vehicle listing and Finance Details view feature for an automotive finance web application. The application needs to display a list of retailers available vehicles, allow users to filter and sort these vehicles, and then view the details of a single vehicle along with a representative finance calculation on a separate page.
 
 **Delivery**
